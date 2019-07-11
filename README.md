@@ -1,7 +1,7 @@
 # **Advanced-Lane-Lines**
 
 #### **Project Overview**
-The goal of the project is to create an image processing algorithm using Advanced computer vision techniques, to Correct distorted images/ videos ,correctly identify lane lines on the road. The algorithm should be robust enough to work on a series of images (video) with varying conditions like changing light conditions and color variations from shadows, etc.
+The goal of the project is to create an image processing algorithm using Advanced computer vision techniques, to Correct distorted images/ videos, correctly identify lane lines on the road, calculate radius of curvature of road and also position of the vehicle with respect to center. The algorithm should be robust enough to work on a series of images (video) with varying conditions like changing light conditions and color variations from shadows, etc.
 
 
 #### Files in the repository
